@@ -1,0 +1,132 @@
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\bin\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\bin\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\obj\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\BLL\obj\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\bin\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\bin\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\obj\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\BLL\obj\Debug\BLL.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\bin\Debug\BLL.dll
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\bin\Debug\BLL.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\bin\Debug\DAL.dll
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\bin\Debug\DAL.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.dll
+D:\Bitm_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\bin\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\bin\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\bin\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\bin\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\obj\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\BLL\obj\Debug\BLL.pdb
+D:\tipu_283866\SMS\BLL\bin\Debug\BLL.dll
+D:\tipu_283866\SMS\BLL\bin\Debug\BLL.pdb
+D:\tipu_283866\SMS\BLL\bin\Debug\DAL.dll
+D:\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\tipu_283866\SMS\BLL\bin\Debug\DAL.pdb
+D:\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\tipu_283866\SMS\BLL\obj\Debug\BLL.dll
+D:\tipu_283866\SMS\BLL\obj\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\bin\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\bin\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\obj\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\BLL\obj\Debug\BLL.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\bin\Debug\BLL.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\bin\Debug\BLL.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\bin\Debug\DAL.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\bin\Debug\DAL.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\obj\Debug\BLL.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\BLL\obj\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\bin\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\bin\Debug\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\obj\Debug\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\BLL\obj\Debug\BLL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\BLL\bin\Debug\BLL.dll
+F:\DOTNETPROJECT\SMS-Tipu\BLL\bin\Debug\BLL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\BLL\bin\Debug\DAL.dll
+F:\DOTNETPROJECT\SMS-Tipu\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DOTNETPROJECT\SMS-Tipu\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DOTNETPROJECT\SMS-Tipu\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\DOTNETPROJECT\SMS-Tipu\BLL\bin\Debug\DAL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.dll
+F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.pdb

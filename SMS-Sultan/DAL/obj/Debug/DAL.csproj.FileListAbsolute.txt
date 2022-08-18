@@ -1,0 +1,111 @@
+D:\Class Morning\Project\SMS\DAL\bin\Debug\DAL.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.dll
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\obj\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\DAL\obj\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\obj\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\DAL\obj\Debug\DAL.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\bin\Debug\DAL.dll
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\bin\Debug\DAL.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.dll
+D:\Bitm_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.dll
+D:\Bitm_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\tipu_283866\SMS\DAL\bin\Debug\DAL.dll
+D:\tipu_283866\SMS\DAL\bin\Debug\DAL.pdb
+D:\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\tipu_283866\SMS\DAL\obj\Debug\DAL.dll
+D:\tipu_283866\SMS\DAL\obj\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\obj\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\DAL\obj\Debug\DAL.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\bin\Debug\DAL.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\bin\Debug\DAL.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\obj\Debug\DAL.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\DAL\obj\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\bin\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\bin\Debug\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\obj\Debug\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\DAL\obj\Debug\DAL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\DAL\bin\Debug\DAL.dll
+F:\DOTNETPROJECT\SMS-Tipu\DAL\bin\Debug\DAL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DOTNETPROJECT\SMS-Tipu\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DOTNETPROJECT\SMS-Tipu\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\DOTNETPROJECT\SMS-Tipu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DOTNETPROJECT\SMS-Tipu\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\DOTNETPROJECT\SMS-Tipu\DAL\obj\Debug\DAL.dll
+F:\DOTNETPROJECT\SMS-Tipu\DAL\obj\Debug\DAL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

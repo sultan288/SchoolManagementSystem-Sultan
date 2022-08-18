@@ -1,0 +1,919 @@
+D:\Class Evening\Project\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\Class Evening\Project\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\csc.exe.config
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\csc.rsp
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\csi.exe
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\csi.exe.config
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\csi.rsp
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Console.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\vbc.rsp
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\Class Evening\Project\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Class Evening\Project\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Class Evening\Project\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Class Evening\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Class Evening\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Class Evening\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Class Evening\Project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Class Morning\Project\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Class Morning\Project\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Class Morning\Project\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\BLL.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\DAL.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\BLL.pdb
+D:\Class Morning\Project\SMS\SchoolManagementSystem\bin\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-33\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\BLL.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\DAL.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\BLL.pdb
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\DAL.pdb
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\Class-33\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-34\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\BLL.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\DAL.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\BLL.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\DAL.pdb
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-35\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-36\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\BLL.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\DAL.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\BLL.pdb
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\DAL.pdb
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\EXAM-2\HW\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\BLL.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\DAL.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\BLL.pdb
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\DAL.pdb
+D:\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.exe
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.exe.config
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csc.rsp
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.exe
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.exe.config
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\csi.rsp
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Console.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\vbc.rsp
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\BLL.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\DAL.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\BLL.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\DAL.pdb
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+D:\Bitm_Dot_Net\Class-45\tipu_283866\SMS\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\csc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\csc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\csc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\csi.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\csi.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\csi.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Console.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\vbc.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\vbc.rsp
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\BLL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\DAL.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\BLL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\DAL.pdb
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\Web_Development\Web Developer\Learn_Dot_Net\Class-47\SMS-Sultan\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\SchoolManagementSystem.dll.config
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\SchoolManagementSystem.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\SchoolManagementSystem.pdb
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\csc.exe
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\csc.exe.config
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\csc.rsp
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\csi.exe
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\csi.exe.config
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\csi.rsp
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.AppContext.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Console.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.IO.Compression.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Net.Http.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Net.Sockets.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.ValueTuple.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\vbc.exe
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\vbc.exe.config
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\vbc.rsp
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\BLL.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\DAL.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\Microsoft.Practices.ObjectBuilder2.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\BLL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\DAL.pdb
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CopyComplete
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.dll
+F:\DOTNETPROJECT\SMS-Tipu\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
