@@ -1,2 +1,2 @@
 # SchoolManagementSystem-Sultan
-This repository holds School Management System Website which is made by Asp.Net Three Tire Architecture called DAL, BLL, PL.
+This repository holds School Management System Website which is made by Asp.Net Three Tire Architecture called DAL, BLL, PL. Here are different tables to input data on the database. They are student table, user registration table, class table, district table, thana table etc. All the table data will save on the database and this data is available on the datatable. We can also edit and delete the data from the table.
