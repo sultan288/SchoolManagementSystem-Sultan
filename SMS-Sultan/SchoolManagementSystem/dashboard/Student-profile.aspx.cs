@@ -19,7 +19,7 @@ namespace SchoolManagementSystem.dashboard
         {
             if (!IsPostBack)
             {
-                CommonDAL.Fillddl(ddlDistrict, "SELECT DistrictId, DistrictName FROM Con_District ORDER BY DistrictName", "DistrictName", "DistrictId");
+                CommonDAL.Fillddl(ddlDistrict, "SELECT DistrictId, DistrictName FROM Conf_District ORDER BY DistrictName", "DistrictName", "DistrictId");
                 LoadGrid();
             }
         }
@@ -157,7 +157,7 @@ namespace SchoolManagementSystem.dashboard
 
         protected void ddlDistrict_SelectedIndexChanged1(object sender, EventArgs e)
         {
-            CommonDAL.Fillddl(ddlUpazila, "SELECT UpazilaId, UpazilaName FROM Con_Upazila WHERE(DistrictId = " + ddlDistrict.SelectedValue + ") ORDER BY UpazilaName", "UpazilaName", "UpazilaId");
+            CommonDAL.Fillddl(ddlUpazila, "SELECT UpazilaId, UpazilaName FROM Conf_Upazila WHERE(DistrictId = " + ddlDistrict.SelectedValue + ") ORDER BY UpazilaName", "UpazilaName", "UpazilaId");
         }
     }
 }

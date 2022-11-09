@@ -81,7 +81,7 @@ namespace SchoolManagementSystem.Setup
             save = objInsBLL.InsertUpdateDelete_InstituteInfo(objEIns);
             if (save > 0)
             {
-                ResponseInstitute.SuccessMessage = btnSave.Text + "Complete Successfully.";
+                ResponseInstitute.SuccessMessage = btnSave.Text + " Complete Successfully.";
                 btnSave.Text = "Save";
             }
 
