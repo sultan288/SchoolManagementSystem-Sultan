@@ -75,7 +75,7 @@
                         <div class="col-md-4">
                             <div class="form-group ">
                                 <label class="form-label">Institute Type</label>
-                                <asp:DropDownList ID="ddlInstituteType" runat="server" CssClass="form-control" >
+                                <asp:DropDownList ID="ddlInstituteType" runat="server" CssClass="form-control select2-success" >
                                     <asp:ListItem Value="0">Select...</asp:ListItem>
                                     <asp:ListItem Value="1">Primary</asp:ListItem>
                                     <asp:ListItem Value="2">Secondary</asp:ListItem>
@@ -98,6 +98,7 @@
                             <div class="form-group ">
                                 <label class="form-label" > &nbsp;</label>
                                  <asp:Button ID="btnSave" runat="server" CssClass="btn btn-primary form-control" Text="Save" OnClick="btnSave_Click" />
+                                <asp:Button ID="Button1" runat="server" Text="Alert" OnClick="AlertButton" />
                             </div>
                         </div>
 
