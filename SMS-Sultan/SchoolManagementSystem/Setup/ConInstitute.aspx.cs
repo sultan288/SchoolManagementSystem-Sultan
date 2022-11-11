@@ -29,8 +29,12 @@ namespace SchoolManagementSystem.Setup
             if (CheckFieldValue() == false)
             {
                 save();
+               
                 LoadGrid();
             }
+
+            ClientScript.RegisterClientScriptBlock(this.GetType(), "alert",
+               "swal('Good job!', 'You clicked the button!', 'success')", true);
         }
 
         private void LoadGrid()
@@ -82,6 +86,7 @@ namespace SchoolManagementSystem.Setup
             if (save > 0)
             {
                 ResponseInstitute.SuccessMessage = btnSave.Text + " Complete Successfully.";
+                
                 btnSave.Text = "Save";
             }
 
@@ -209,6 +214,17 @@ namespace SchoolManagementSystem.Setup
                 txtInstituteLogo.Text = dt.Rows[0]["InstituteLogo"].ToString();
 
             }
+        }
+
+        protected void AlertButton(object sender, EventArgs e)
+        {
+            //ClientScript.RegisterClientScriptBlock(this.GetType(), "alert",
+            //  "swal('Good job!', 'You clicked the button!', 'success')", true); 
+            
+            ClientScript.RegisterClientScriptBlock(this.GetType(), "alert",
+               "swal('Good job!', 'You clicked the button!', 'success')", true);
+
+            //swal("Good job!", "You clicked the button!", "success");
         }
     }
 }

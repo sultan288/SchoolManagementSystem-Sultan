@@ -6,7 +6,7 @@
 
      <script type="text/javascript">
 
-        
+         <script src="../JsFile.js"></script>
      </script>
 
 </asp:Content>

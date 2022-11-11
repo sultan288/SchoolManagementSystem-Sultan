@@ -1515,6 +1515,7 @@
     <Content Include="dashboard\admin-index.aspx" />
     <Content Include="dashboard\StudentAdmission.aspx" />
     <Content Include="dashboard\User_List.aspx" />
+    <Content Include="JsFile.js" />
     <Content Include="login.aspx" />
     <Content Include="dashboard\Student-profile.aspx" />
     <Content Include="events.aspx" />
@@ -1534,6 +1535,7 @@
     <Content Include="Setup\Subject.aspx" />
     <Content Include="Setup\Upazila.aspx" />
     <Content Include="SweetText.aspx" />
+    <Content Include="TestFile.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -1712,6 +1714,13 @@
     </Compile>
     <Compile Include="SweetText.aspx.designer.cs">
       <DependentUpon>SweetText.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestFile.aspx.cs">
+      <DependentUpon>TestFile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestFile.aspx.designer.cs">
+      <DependentUpon>TestFile.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
