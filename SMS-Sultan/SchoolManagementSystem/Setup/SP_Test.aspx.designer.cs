@@ -11,17 +11,17 @@ namespace SchoolManagementSystem.Setup
 {
 
 
-    public partial class SchoolProfile
+    public partial class ConSchool
     {
 
         /// <summary>
-        /// rmschool control.
+        /// ResponseInstitute control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::RealProjectB1.ResponseMessage rmschool;
+        protected global::RealProjectB1.ResponseMessage ResponseInstitute;
 
         /// <summary>
         /// txtRegno control.
@@ -96,21 +96,21 @@ namespace SchoolManagementSystem.Setup
         protected global::System.Web.UI.WebControls.Button btnSave;
 
         /// <summary>
-        /// hdnUpdateSchoolId control.
+        /// hdnUpdateSpId control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HiddenField hdnUpdateSchoolId;
+        protected global::System.Web.UI.WebControls.HiddenField hdnUpdateSpId;
 
         /// <summary>
-        /// gvSchool2 control.
+        /// gvSchool control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvSchool2;
+        protected global::System.Web.UI.WebControls.GridView gvSchool;
     }
 }

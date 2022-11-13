@@ -1522,8 +1522,10 @@
     <Content Include="gallery.aspx" />
     <Content Include="index.aspx" />
     <Content Include="MessageBox.ascx" />
+    <Content Include="PhoneBook.aspx" />
     <Content Include="ResponseMessage.ascx" />
     <Content Include="Setup\Class.aspx" />
+    <Content Include="Setup\SP_Test.aspx" />
     <Content Include="Setup\ConInstitute.aspx" />
     <Content Include="Setup\Designation.aspx" />
     <Content Include="Setup\District.aspx" />
@@ -1623,6 +1625,13 @@
     <Compile Include="MessageBox.ascx.designer.cs">
       <DependentUpon>MessageBox.ascx</DependentUpon>
     </Compile>
+    <Compile Include="PhoneBook.aspx.cs">
+      <DependentUpon>PhoneBook.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PhoneBook.aspx.designer.cs">
+      <DependentUpon>PhoneBook.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResponseMessage.ascx.cs">
       <DependentUpon>ResponseMessage.ascx</DependentUpon>
@@ -1637,6 +1646,13 @@
     </Compile>
     <Compile Include="Setup\Class.aspx.designer.cs">
       <DependentUpon>Class.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\SP_Test.aspx.cs">
+      <DependentUpon>SP_Test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Setup\SP_Test.aspx.designer.cs">
+      <DependentUpon>SP_Test.aspx</DependentUpon>
     </Compile>
     <Compile Include="Setup\ConInstitute.aspx.cs">
       <DependentUpon>ConInstitute.aspx</DependentUpon>

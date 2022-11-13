@@ -76,20 +76,20 @@ namespace SchoolManagementSystem.Setup
 
             if (dt.Rows.Count>0)
             {
-                gvSchool.DataSource = dt;
-                gvSchool.DataBind();
+                gvSchool2.DataSource = dt;
+                gvSchool2.DataBind();
             }
             else
             {
-                gvSchool.DataSource = null;
-                gvSchool.DataBind();
+                gvSchool2.DataSource = null;
+                gvSchool2.DataBind();
             }
         }
 
         protected void gvSchool_RowCommand(object sender, GridViewCommandEventArgs e)
         {
             int rowindex = int.Parse(e.CommandArgument.ToString());
-            HiddenField hdnSchoolId = (HiddenField)gvSchool.Rows[rowindex].FindControl("hdnSchoolId");
+            HiddenField hdnSchoolId = (HiddenField)gvSchool2.Rows[rowindex].FindControl("hdnSchoolId");
 
             if (e.CommandName == "editc")
             {
