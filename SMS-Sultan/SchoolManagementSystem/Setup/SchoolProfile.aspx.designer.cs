@@ -96,15 +96,6 @@ namespace SchoolManagementSystem.Setup
         protected global::System.Web.UI.WebControls.Button btnSave;
 
         /// <summary>
-        /// gvSchool control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvSchool;
-
-        /// <summary>
         /// hdnUpdateSchoolId control.
         /// </summary>
         /// <remarks>
@@ -114,12 +105,12 @@ namespace SchoolManagementSystem.Setup
         protected global::System.Web.UI.WebControls.HiddenField hdnUpdateSchoolId;
 
         /// <summary>
-        /// gvSchool2 control.
+        /// gvSchool control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvSchool2;
+        protected global::System.Web.UI.WebControls.GridView gvSchool;
     }
 }

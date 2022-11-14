@@ -79,10 +79,10 @@
                 <div class="card-header ">
                     <h3 class="card-title text-center">Institute List</h3>
                 </div>
-
+                <asp:HiddenField ID="hdnUpdateSchoolId" runat="server" />
                 <asp:GridView ID="gvSchool" runat="server" AutoGenerateColumns="true"></asp:GridView>
 
-                <div class="card-body">
+                <%--<div class="card-body">
                     <div class="row">
                         <div class="col-md-12" style="overflow: scroll;">
                             <div class="form-group ">
@@ -113,7 +113,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>--%>
 
             </div>
         </div>

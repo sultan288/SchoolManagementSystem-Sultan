@@ -119,3 +119,13 @@ F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.csproj.Co
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.csproj.CopyComplete
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.dll
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.pdb
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\bin\Debug\DAL.dll
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\bin\Debug\DAL.pdb
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.dll
+F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\DAL\obj\Debug\DAL.pdb
