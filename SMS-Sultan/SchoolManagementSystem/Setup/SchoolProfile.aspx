@@ -15,7 +15,7 @@
                     <h3 class="card-title">Institute Info</h3>
                 </div>
                 <!--Error Message-->
-                <uc1:responsemessage runat="server" id="rmschool" />
+                <uc1:ResponseMessage runat="server" ID="rmschool" />
 
                 <div class="card-body">
                     <div class="row">
@@ -74,31 +74,30 @@
 
                     </div>
                 </div>
-                
 
-               <%-- <div class="card-header ">
+
+                <div class="card-header ">
                     <h3 class="card-title text-center">Institute List</h3>
-                </div>--%>
+                </div>
 
-               <%-- <asp:GridView ID="gvSchool" runat="server" AutoGenerateColumns="true"></asp:GridView>--%>
-
-                <%--<div class="card-body">
+                <div class="card-body">
                     <div class="row">
                         <div class="col-md-12" style="overflow: scroll;">
                             <div class="form-group ">
                                 <asp:HiddenField ID="hdnUpdateSchoolId" runat="server" />
-                                <asp:GridView ID="gvSchool2" runat="server" CssClass="table table-bordered table-striped" AutoGenerateColumns="false" OnRowCommand="gvSchool_RowCommand" Height="185px" >
+                                <h1>Gv start</h1>
+                                <asp:GridView ID="gvSchool2" runat="server" CssClass="table table-bordered table-striped" AutoGenerateColumns="False" OnRowCommand="gvSchool_RowCommand" Height="185px">
                                     <Columns>
 
                                         <asp:BoundField DataField="EIIN_RegistrationNo" HeaderText="Reg No" />
                                         <asp:BoundField DataField="InstituteName" HeaderText="School Name" />
                                         <asp:BoundField DataField="Email" HeaderText="Email" />
                                         <asp:BoundField DataField="Phone" HeaderText="Phone" />
-                    
+
                                         <asp:BoundField DataField="DistrictId" HeaderText="DistrictName" />
                                         <asp:BoundField DataField="UpazilaId" HeaderText="Upazila Name" />
                                         <asp:BoundField DataField="Address" HeaderText="Address" />
-                                        
+
 
                                         <asp:TemplateField HeaderText="Action">
                                             <ItemTemplate>
@@ -107,21 +106,19 @@
                                                 <asp:ImageButton ID="imgDelete" runat="server" ImageUrl="~/assets/img/cancel.png" CommandName="deletec" CommandArgument='<%# Container.DataItemIndex %>' OnClientClick="if ( ! ConfirmationMsg()) return false;" meta:resourcekey="imgDelete" Width="25px" />
                                             </ItemTemplate>
                                         </asp:TemplateField>
-
                                     </Columns>
                                 </asp:GridView>
+                                <h1>gv end</h1>
                             </div>
                         </div>
                     </div>
-                </div>--%>
+                </div>
 
-                <div>
+                <%--<div>
                     <h1>School Profile</h1>
                     <asp:HiddenField ID="hdnUpdateSchoolId" runat="server" />
                     <asp:GridView ID="gvSchool2" runat="server" AutoGenerateColumns="true"></asp:GridView>
-                </div>
-
-
+                </div>--%>
             </div>
         </div>
     </div>

@@ -21,7 +21,7 @@
     <!--Select2-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" integrity="sha512-nMNlpuaDPrqlEls3IX/Q56H36qvBASwb3ipuo3MxeWbsQB1881ox0cRv7UPTgBlriqoynt35KjEwgGUeUXIPnw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 
 
@@ -50,10 +50,10 @@
                 <li class="nav-item d-none d-sm-inline-block">
                     <a href="../dashboard/admin-index.aspx" class="nav-link">Contact</a>
                 </li>
-                 <li class="nav-item d-none d-sm-inline-block">
+                <li class="nav-item d-none d-sm-inline-block">
                     <a href="../dashboard/admin-index.aspx" class="nav-link">Profile</a>
                 </li>
-             
+
             </ul>
 
             <!-- Right navbar links -->
@@ -81,7 +81,7 @@
                 </li>
 
                 <!-- Messages Dropdown Menu -->
-               <%-- <li class="nav-item dropdown">
+                <%-- <li class="nav-item dropdown">
                     <a class="nav-link" data-toggle="dropdown" href="#">
                         <i class="far fa-comments"></i>
                         <span class="badge badge-danger navbar-badge">3</span>
@@ -228,6 +228,24 @@
                             <a href="#" class="nav-link">
                                 <i class="nav-icon fas fa-table"></i>
                                 <p>
+                                    Admin
+                <i class="fas fa-angle-left right"></i>
+                                </p>
+                            </a>
+                            <ul class="nav nav-treeview">
+                                <li class="nav-item">
+                                    <a href="../dashboard/RegUserList.aspx" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Reg. User Details</p>
+                                    </a>s
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">
+                                <i class="nav-icon fas fa-table"></i>
+                                <p>
                                     Student
                 <i class="fas fa-angle-left right"></i>
                                 </p>
@@ -251,7 +269,7 @@
                                         <p>Student Admission</p>
                                     </a>
                                 </li>
-                               
+
                                 <li class="nav-item">
                                     <a href="../SweetText.aspx" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
@@ -298,11 +316,11 @@
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Employee Info</p>
                                     </a>
-                                </li>                                
+                                </li>
                             </ul>
                         </li>
 
-                        
+
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
@@ -367,7 +385,7 @@
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Category</p>
                                     </a>
-                                </li>                           
+                                </li>
                                 <li class="nav-item">
                                     <a href="../Setup/SubCategory.aspx" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
@@ -455,7 +473,7 @@
     <!--Chart.js-->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3/dist/chart.min.js"></script>
     <!--Custom JS-->
-    <script src="../JsFile.js"></script>   
+    <script src="../JsFile.js"></script>
     <!--Sweetalert-->
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 

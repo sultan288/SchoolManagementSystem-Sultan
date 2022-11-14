@@ -1,0 +1,25 @@
+﻿body {
+}
+
+.register-btn{
+    color: #2a83b6;
+    background-color: #ffffff;
+    border: 1px solid #0094ff;
+}
+.register-btn:hover{
+    color: #ffffff;
+    background-color: #0094ff;
+    border: 1px solid #0094ff;
+}
+
+.login-btn {
+    color: #ffffff;
+    background-color: #0072ff;
+    border: 1px solid #0094ff;
+}
+
+.login-btn:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #0094ff;
+}

@@ -41,16 +41,16 @@ namespace SchoolManagementSystem.Setup
         {
             DataTable dt = new DataTable();
             dt = objSpBLL.Get_SchoolProfile_bll();
-            if (dt.Rows.Count > 0)
-            {
+            //if (dt.Rows.Count > 0)
+            
                 gvSchool.DataSource = dt;
                 gvSchool.DataBind();
-            }
-            else
-            {
+            
+            //else
+            
                 gvSchool.DataSource = null;
                 gvSchool.DataBind();
-            }
+            
         }
         private void save()
         {

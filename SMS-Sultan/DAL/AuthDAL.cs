@@ -69,5 +69,26 @@ namespace DAL
             return dt;
         }
 
+        public int Insert_Register(string firstname, string lastname, string username, string contactno, string email, string address, int registerId = 0)
+        {
+            int ret = 0;
+            Database db;
+            DbCommand dbcmd;
+            db = DatabaseFactory.CreateDatabase("cnn");
+            dbcmd = db.GetStoredProcCommand("Insert_Sp_Register");
+
+            db.AddInParameter(dbcmd, "registerId", DbType.String, registerId);
+            db.AddInParameter(dbcmd, "firstname", DbType.String, firstname);
+            db.AddInParameter(dbcmd, "lastname", DbType.String, lastname);
+            db.AddInParameter(dbcmd, "username", DbType.String, username);
+            db.AddInParameter(dbcmd, "contactno", DbType.String, contactno);
+            db.AddInParameter(dbcmd, "email", DbType.String, email);
+            db.AddInParameter(dbcmd, "address", DbType.String, address);
+
+            ret = db.ExecuteNonQuery(dbcmd);
+
+            return ret;
+        }
+
     }
 }

@@ -91,13 +91,77 @@ namespace SchoolManagementSystem.dashboard
                 IsReq = true;
                 rmMsg.SuccessMessage = "Password can't be empty";
             }
-
-
-
             return IsReq;
         }
 
+        protected void btnReg_Click(object sender, EventArgs e)
+        {
+            SaveReg();
+        }
+          
+        private void SaveReg()
+        {
+            int reg = 0;
 
+            if (btnReg.Text == "Register")
+            {
+                reg = objAuthBLL.Insert_Registerbll(txtFirstName.Text, txtLastName.Text, txtUName.Text, txtContactNo.Text, TextEmail.Text, TextAddress.Text, 0);
+                if (reg > 0)
+                {
+                    if (CheckRegFieldValue() == true)
+                    {
+                        SaveReg();
+                    }
+                    else
+                    {
+                        rmMsg.FailureMessage = "Pleas provide information";
+                    }
+                }
+            }
 
+        }
+
+        private bool CheckRegFieldValue()
+        {
+            bool value = true;
+
+            if (txtFirstName.Text == "")
+            {
+                value = false;
+            }
+            if (txtLastName.Text == "")
+            {
+                value = false;
+            }
+            if (txtUName.Text == "")
+            {
+                value = false;
+            }
+            if (txtContactNo.Text == "")
+            {
+                value = false;
+            }
+            if (TextEmail.Text == "")
+            {
+                value = false;
+            }
+            if (TextAddress.Text == "")
+            {
+                value = false;
+            }
+            return value;
+        }
+
+        private void ClearFieldValue()
+        {        
+            txtFirstName.Text = "";
+            txtLastName.Text = "";
+            txtUName.Text = "";
+            txtContactNo.Text = "";
+            TextEmail.Text = "";
+            TextAddress.Text = "";
+        }
+
+        
     }
 }

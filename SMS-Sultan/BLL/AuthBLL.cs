@@ -34,5 +34,12 @@ namespace BLL
             dt = objAuth.LoadUserReg(ReligionId, Gender, UserId);
             return dt;
         }
+
+        public int Insert_Registerbll(string firstname, string lastname, string username, string contactno, string email, string address, int registerId = 0)
+        {
+            int ret = 0;
+            ret = objAuth.Insert_Register(firstname, lastname, username, contactno, email, address, registerId);
+            return ret;
+        }
     }
 }
