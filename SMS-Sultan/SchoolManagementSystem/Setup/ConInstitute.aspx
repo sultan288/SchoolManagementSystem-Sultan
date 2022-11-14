@@ -4,6 +4,8 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
+    <script src="../JsFile.js"></script>
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
@@ -11,7 +13,7 @@
         <div class="container">
             <!-- general form elements -->
             <div class="card card-primary">
-                <div class="card-header">
+                <div class="card-header">  
                     <h3 class="card-title">Institute Info</h3>
                 </div>
 
@@ -92,6 +94,18 @@
                             <div class="form-group ">
                                 <label class="form-label">Institute Logo</label>
                                 <asp:TextBox ID="txtInstituteLogo" runat="server" CssClass="form-control"></asp:TextBox>
+                            </div>
+                        </div>
+                         <div class="col-md-4">
+                            <div class="form-group ">
+                                <label class="form-label">Institute Logo</label>
+                                <select class="js-example-basic-single" name="state">
+                                    <option value="AL">Alabama</option>
+                                     <option value="WY">Wyoming</option>
+                                     <option value="WY">NATORE</option>
+                                     <option value="WY">DOHA</option>
+                                     <option value="WY">DBA</option>
+                                </select>
                             </div>
                         </div>
                         <div class="col-md-2">
