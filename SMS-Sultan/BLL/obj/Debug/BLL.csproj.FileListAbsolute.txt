@@ -130,6 +130,32 @@ F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.dll
 F:\DOTNETPROJECT\SMS-Tipu\BLL\obj\Debug\BLL.pdb
+<<<<<<< HEAD
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.dll
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.pdb
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\DAL.dll
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\DAL.pdb
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.dll
+F:\Projects\All projects4\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.pdb
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.dll
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.pdb
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\DAL.dll
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\DAL.pdb
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.dll
+F:\Projects\Project File\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.pdb
+=======
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.dll
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.pdb
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\DAL.dll
@@ -142,6 +168,7 @@ F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.Co
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.dll
 F:\Projects\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.pdb
+<<<<<<< HEAD
 F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.dll
 F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\BLL.pdb
 F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\bin\Debug\DAL.dll
@@ -154,3 +181,6 @@ F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.cspr
 F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.dll
 F:\DOTNETPROJECT\SchoolManagementSystem_Sultan\SMS-Sultan\BLL\obj\Debug\BLL.pdb
+=======
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 96a153a96c7d323bb4d35e54a351ef9b692be511

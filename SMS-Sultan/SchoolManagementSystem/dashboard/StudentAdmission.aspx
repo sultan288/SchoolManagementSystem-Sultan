@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/AdminMaster.Master" AutoEventWireup="true" CodeBehind="StudentAdmission.aspx.cs" Inherits="SchoolManagementSystem.dashboard.StudentAdmission" %>
+﻿<%--<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/AdminMaster.Master" AutoEventWireup="true" CodeBehind="StudentAdmission.aspx.cs" Inherits="SchoolManagementSystem.dashboard.StudentAdmission" %>--%>
 
 <%@ Register Src="~/ResponseMessage.ascx" TagPrefix="uc1" TagName="ResponseMessage" %>
 

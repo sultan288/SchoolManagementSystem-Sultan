@@ -15,8 +15,13 @@
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
+<<<<<<< HEAD
+              <li class="breadcrumb-item"><a href="admin-index.aspx">Home</a></li>
+              <li class="breadcrumb-item active">Dashboard v3</li>
+=======
               <li class="breadcrumb-item"><a href="#">Home</a></li>
               <li class="breadcrumb-item active">Dashboard</li>
+>>>>>>> refs/remotes/origin/main
             </ol>
           </div><!-- /.col -->
         </div><!-- /.row -->

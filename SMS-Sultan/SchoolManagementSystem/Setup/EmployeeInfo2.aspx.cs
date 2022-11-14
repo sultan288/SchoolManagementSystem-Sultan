@@ -20,7 +20,7 @@ namespace SchoolManagementSystem.Setup
             if (!IsPostBack)
             {
                 CommonDAL.Fillddl(ddlDistrict, "SELECT DistrictId, DistrictName FROM Conf_District ORDER BY DistrictName", "DistrictName", "DistrictId");               
-                CommonDAL.Fillddl(ddlDesigName, "SELECT DesignationId, DesignationName, Position FROM Con_Designation ORDER BY Position", "DesignationName", "DesignationId");
+                CommonDAL.Fillddl(ddlDesigName, "SELECT DesignationId, DesignationName, Position FROM Conf_Designation ORDER BY Position", "DesignationName", "DesignationId");
                 CommonDAL.Fillddl(ddlReligion, "SELECT ReligionId, ReligionName FROM Conf_Religion", "ReligionName", "ReligionId");
 
                 LoadGrid();

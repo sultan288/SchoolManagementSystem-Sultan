@@ -81,6 +81,7 @@
     <Content Include="assets\dist\css\alt\adminlte.pages.min.css" />
     <Content Include="assets\dist\css\alt\adminlte.plugins.css" />
     <Content Include="assets\dist\css\alt\adminlte.plugins.min.css" />
+    <Content Include="assets\dist\css\custom-css.css" />
     <Content Include="assets\dist\img\AdminLTELogo.png" />
     <Content Include="assets\dist\img\avatar.png" />
     <Content Include="assets\dist\img\avatar2.png" />
@@ -1513,6 +1514,7 @@
     <Content Include="assets\site\js\main.js" />
     <Content Include="assets\site\js\plugins.js" />
     <Content Include="dashboard\admin-index.aspx" />
+    <Content Include="dashboard\RegUserList.aspx" />
     <Content Include="dashboard\StudentAdmission.aspx" />
     <Content Include="dashboard\User_List.aspx" />
     <Content Include="JsFile.js" />
@@ -1522,8 +1524,10 @@
     <Content Include="gallery.aspx" />
     <Content Include="index.aspx" />
     <Content Include="MessageBox.ascx" />
+    <Content Include="PhoneBook.aspx" />
     <Content Include="ResponseMessage.ascx" />
     <Content Include="Setup\Class.aspx" />
+    <Content Include="Setup\SP_Test.aspx" />
     <Content Include="Setup\ConInstitute.aspx" />
     <Content Include="Setup\Designation.aspx" />
     <Content Include="Setup\District.aspx" />
@@ -1545,6 +1549,13 @@
     </Compile>
     <Compile Include="dashboard\admin-index.aspx.designer.cs">
       <DependentUpon>admin-index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="dashboard\RegUserList.aspx.cs">
+      <DependentUpon>RegUserList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="dashboard\RegUserList.aspx.designer.cs">
+      <DependentUpon>RegUserList.aspx</DependentUpon>
     </Compile>
     <Compile Include="dashboard\StudentAdmission.aspx.cs">
       <DependentUpon>StudentAdmission.aspx</DependentUpon>
@@ -1623,6 +1634,13 @@
     <Compile Include="MessageBox.ascx.designer.cs">
       <DependentUpon>MessageBox.ascx</DependentUpon>
     </Compile>
+    <Compile Include="PhoneBook.aspx.cs">
+      <DependentUpon>PhoneBook.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PhoneBook.aspx.designer.cs">
+      <DependentUpon>PhoneBook.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResponseMessage.ascx.cs">
       <DependentUpon>ResponseMessage.ascx</DependentUpon>
@@ -1637,6 +1655,13 @@
     </Compile>
     <Compile Include="Setup\Class.aspx.designer.cs">
       <DependentUpon>Class.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Setup\SP_Test.aspx.cs">
+      <DependentUpon>SP_Test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Setup\SP_Test.aspx.designer.cs">
+      <DependentUpon>SP_Test.aspx</DependentUpon>
     </Compile>
     <Compile Include="Setup\ConInstitute.aspx.cs">
       <DependentUpon>ConInstitute.aspx</DependentUpon>
