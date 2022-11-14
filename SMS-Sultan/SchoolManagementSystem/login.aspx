@@ -43,7 +43,11 @@
                     </div>
                     <!-- /.col -->
                     <div class="col-4">
+<<<<<<< HEAD
                         <asp:Button ID="btnLogin" runat="server" CssClass="btn btn-primary btn-block login-btn" Text="Login" OnClick="btnLogin_Click" />
+=======
+                        <asp:Button ID="btnLogin" runat="server" CssClass="btn btn-primary btn-block" Text="Login" OnClick="btnLogin_Click" />
+>>>>>>> refs/remotes/origin/main
 
                     </div>
                     <!-- /.col -->
@@ -61,6 +65,7 @@
       </div>--%>
                 <!-- /.social-auth-links -->
 
+<<<<<<< HEAD
                 <%-- <p class="mb-1">
         <a href="forgot-password.html">I forgot my password</a>
       </p>--%>
@@ -68,17 +73,40 @@
                     <p class="float-left mt-3">Don't Have an Account</p>
                     <button type="button" class="btn mt-2 float-right register-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Register Now</button>
                 </div>
+=======
+                <p class="mb-1">
+                    <a href="forgot-password.html">I forgot my password</a>
+                </p>
+                <p class="mb-0">
+                    <%-- <a href="#RegModal" class="text-center" data-toggle="modal" data-target="#myModal"><span class="fs-4"><strong>Register</strong></span></a> a new membership--%>
+                    <%--<button data-bs-toggle="modal" data-bs-target="#myModal" class="btn btn-primary">Register</button>--%>
+                </p>
+
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Register
+                </button>
+>>>>>>> refs/remotes/origin/main
 
                 <!-- Modal -->
                 <div class="modal fade rounded-3" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog">
                         <div class="modal-content">
+<<<<<<< HEAD
 
                             <div class="bg-gradient-navy">
                                 <h5 class="text-center my-1 py-1 fs-3" id="exampleModalLabel">Register Now</h5>
                             </div>
 
 
+=======
+                           
+                                <div class="bg-gradient-navy">
+                                    <h5 class="text-center my-1 py-1 fs-3" id="exampleModalLabel">Register Now</h5>
+                                </div>
+                                
+                           
+>>>>>>> refs/remotes/origin/main
                             <div class="modal-body">
 
                                 <div class="row">
@@ -118,20 +146,36 @@
                                     </div>
                                 </div>
                             </div>
+<<<<<<< HEAD
                             <div class="modal-footer position-relative">
                                 <button type="button" class="btn-close bg-danger p-3 position-absolute bottom-0 start-0" data-bs-dismiss="modal" aria-label="Close"></button>
                                 <asp:Button ID="btnReg" runat="server" Text="Register" CssClass="btn bg-gradient-success" OnClick="btnReg_Click" />
                             </div>
+=======
+                            <div class="modal-footer position-relative">                                   
+                                <button type="button" class="btn-close bg-danger p-3 position-absolute bottom-0 start-0" data-bs-dismiss="modal" aria-label="Close"></button>
+                                 <asp:Button ID="btnReg" runat="server" Text="Register" CssClass="btn bg-gradient-success" OnClick="btnReg_Click" />
+                           </div>
+                       
+                            
+>>>>>>> refs/remotes/origin/main
                         </div>
                     </div>
                 </div>
 
+<<<<<<< HEAD
             </div>
             <!-- /.login-card-body -->
         </div>
 
 
 
+=======
+
+            </div>
+            <!-- /.login-card-body -->
+        </div>
+>>>>>>> refs/remotes/origin/main
     </div>
     <!-- /.login-box -->
 </asp:Content>

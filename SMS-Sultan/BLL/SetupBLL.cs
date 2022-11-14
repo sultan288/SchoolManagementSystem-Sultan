@@ -35,5 +35,12 @@ namespace BLL
             dt = objSetup.LoadSubCategory();
             return dt;
         }
+
+        public int SetupSp_InsertUpdateDelete(int Action, string Category, int UserId, int CategoryId = 0)
+        {
+            int ret = 0;
+            ret = objSetup.Setup_InsertUpdateDelete(Action, Category, UserId, CategoryId);
+            return ret;
+        }
     }
 }

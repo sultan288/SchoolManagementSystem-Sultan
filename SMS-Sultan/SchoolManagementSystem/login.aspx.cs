@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.Common;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using BLL;
+
 
 namespace SchoolManagementSystem.dashboard
 {
@@ -94,6 +96,7 @@ namespace SchoolManagementSystem.dashboard
             return IsReq;
         }
 
+<<<<<<< HEAD
         protected void btnReg_Click(object sender, EventArgs e)
         {
             SaveReg();
@@ -163,5 +166,35 @@ namespace SchoolManagementSystem.dashboard
         }
 
         
+=======
+       
+
+        protected void btnReg_Click(object sender, EventArgs e)
+        {
+            SaveReg();
+        }
+
+        private void SaveReg()
+        {
+            int reg = 0;
+
+            if (btnReg.Text == "Register")
+            {
+                reg = objAuthBLL.Insert_Registerbll(txtFirstName.Text, txtLastName.Text, txtUName.Text, txtContactNo.Text, TextEmail.Text, TextAddress.Text, 0);
+                if (reg > 0)
+                {
+                    rmMsg.SuccessMessage = "Save done";                   
+                    txtFirstName.Text = "";
+                    txtLastName.Text = "";
+                    txtUName.Text = "";
+                    txtContactNo.Text = "";
+                    TextEmail.Text = "";
+                    TextAddress.Text = "";
+                }
+            }          
+
+        }
+>>>>>>> refs/remotes/origin/main
     }
+
 }

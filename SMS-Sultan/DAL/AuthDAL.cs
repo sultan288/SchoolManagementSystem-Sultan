@@ -69,6 +69,10 @@ namespace DAL
             return dt;
         }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> refs/remotes/origin/main
         public int Insert_Register(string firstname, string lastname, string username, string contactno, string email, string address, int registerId = 0)
         {
             int ret = 0;
@@ -88,7 +92,11 @@ namespace DAL
             ret = db.ExecuteNonQuery(dbcmd);
 
             return ret;
+<<<<<<< HEAD
         }
+=======
+        }     
+>>>>>>> refs/remotes/origin/main
 
     }
 }
