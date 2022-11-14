@@ -54,6 +54,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entity\ESchoolProfile.cs" />
+    <Compile Include="SchoolProfileDAL.cs" />
     <Compile Include="UserListDAL.cs" />
     <Compile Include="DesignationDAL.cs" />
     <Compile Include="ClassDAL.cs" />
@@ -63,7 +65,6 @@
     <Compile Include="StudentDAL.cs" />
     <Compile Include="InstituteDAL.cs" />
     <Compile Include="AuthDAL.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="CommonDAL.cs" />
     <Compile Include="Entity\EInstitute.cs" />
     <Compile Include="Entity\EURegistration.cs" />

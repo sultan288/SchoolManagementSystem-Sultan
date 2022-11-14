@@ -17,7 +17,7 @@ namespace DAL
             Database db;
             DbCommand dbcmd;
             db = DatabaseFactory.CreateDatabase("cnn");
-            dbcmd = db.GetStoredProcCommand("StudentSp_InsertUpdateDelete");          
+            dbcmd = db.GetStoredProcCommand("[SetupStudentProfile_insertUpdateDelete]");          
 
             db.AddInParameter(dbcmd, "Action", DbType.Int32, objEStu.Action);
             db.AddInParameter(dbcmd, "StudentId", DbType.Int32, objEStu.StudentId);
@@ -38,7 +38,7 @@ namespace DAL
             db.AddInParameter(dbcmd, "Address", DbType.String, objEStu.Address);            
             db.AddInParameter(dbcmd, "ReligionId", DbType.Int32, objEStu.ReligionId);
             db.AddInParameter(dbcmd, "StuPic", DbType.String, objEStu.StuPic);
-            db.AddInParameter(dbcmd, "EntryBy", DbType.Int32, objEStu.EntryBy);
+            db.AddInParameter(dbcmd, "UserId", DbType.Int32, objEStu.EntryBy);
 
             //db.AddInParameter(dbcmd, "Action", DbType.Int32, objEIns.Action);
             //db.AddInParameter(dbcmd, "InstituteId", DbType.Int32, objEIns.InstituteId);
@@ -65,7 +65,7 @@ namespace DAL
             Database db;
             DbCommand dbcmd;
             db = DatabaseFactory.CreateDatabase("cnn");
-            dbcmd = db.GetStoredProcCommand("SetupSp_GetStudent");           
+            dbcmd = db.GetStoredProcCommand("SetupSp_GetStudentProfile");           
             dt = db.ExecuteDataSet(dbcmd).Tables[0];
 
             return dt;

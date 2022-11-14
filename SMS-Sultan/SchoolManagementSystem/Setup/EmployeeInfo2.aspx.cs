@@ -19,8 +19,8 @@ namespace SchoolManagementSystem.Setup
         {
             if (!IsPostBack)
             {
-                CommonDAL.Fillddl(ddlDistrict, "SELECT DistrictId, DistrictName FROM Con_District ORDER BY DistrictName", "DistrictName", "DistrictId");               
-                CommonDAL.Fillddl(ddlDesigName, "SELECT DesignationId, DesignationName, Position FROM Con_Designation ORDER BY Position", "DesignationName", "DesignationId");
+                CommonDAL.Fillddl(ddlDistrict, "SELECT DistrictId, DistrictName FROM Conf_District ORDER BY DistrictName", "DistrictName", "DistrictId");               
+                CommonDAL.Fillddl(ddlDesigName, "SELECT DesignationId, DesignationName, Position FROM Conf_Designation ORDER BY Position", "DesignationName", "DesignationId");
                 CommonDAL.Fillddl(ddlReligion, "SELECT ReligionId, ReligionName FROM Conf_Religion", "ReligionName", "ReligionId");
 
                 LoadGrid();
@@ -29,7 +29,7 @@ namespace SchoolManagementSystem.Setup
 
         protected void ddlDistrict_SelectedIndexChanged1(object sender, EventArgs e)
         {
-            CommonDAL.Fillddl(ddlUpazila, "SELECT UpazilaId, UpazilaName FROM Con_Upazila WHERE(DistrictId = " + ddlDistrict.SelectedValue + ") ORDER BY UpazilaName", "UpazilaName", "UpazilaId");
+            CommonDAL.Fillddl(ddlUpazila, "SELECT UpazilaId, UpazilaName FROM Conf_Upazila WHERE(DistrictId = " + ddlDistrict.SelectedValue + ") ORDER BY UpazilaName", "UpazilaName", "UpazilaId");
         }
 
 
@@ -269,7 +269,7 @@ namespace SchoolManagementSystem.Setup
                 txtJoiningDate.Text = dt.Rows[0]["JoiningDate"].ToString();                     
                 ddlReligion.SelectedValue = dt.Rows[0]["ReligionId"].ToString();
                 ddlReligion.SelectedValue = dt.Rows[0]["DistrictId"].ToString();
-                CommonDAL.Fillddl(ddlUpazila, "SELECT UpazilaId, UpazilaName FROM Con_Upazila WHERE(DistrictId = " + ddlDistrict.SelectedValue + ") ORDER BY UpazilaName", "UpazilaName", "UpazilaId");
+                CommonDAL.Fillddl(ddlUpazila, "SELECT UpazilaId, UpazilaName FROM Conf_Upazila WHERE(DistrictId = " + ddlDistrict.SelectedValue + ") ORDER BY UpazilaName", "UpazilaName", "UpazilaId");
                 ddlUpazila.SelectedValue = dt.Rows[0]["UpazilaId"].ToString();
                 txtAddress.Text = dt.Rows[0]["Address"].ToString();
                 txtEmail.Text = dt.Rows[0]["Email"].ToString();
